@@ -7,3 +7,5 @@
 #git commit-m "initial website ready" (snapshot or checkpoint)
 #git log          to check commits
 
+
+
